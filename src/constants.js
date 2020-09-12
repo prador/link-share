@@ -2,8 +2,8 @@ import { ReactComponent as HomeIcon } from "./assets/icons/homeIcon.svg";
 import { ReactComponent as SearchIcon } from "./assets/icons/search.svg";
 import { ReactComponent as FriendsIcon } from "./assets/icons/friends.svg";
 
-export const OAUTH_DOMAIN = "linkshare.au.auth0.com";
-export const OAUTH_CLIENT_ID = "OiQpOQkpE8y3xVsPhDi4TGPhiHd01cxO";
+export const OAUTH_DOMAIN = "dev-iqef1v1x.eu.auth0.com";
+export const OAUTH_CLIENT_ID = "jqp042Sw1jlx9VQTs2mSwqR1uJGHO7Iy";
 export const OAUTH_AUDIENCE = "hasura";
 export const OAUTH_REDIRECT_URL = `${process.env.REACT_APP_BASE_PATH}/callback`;
 export const GRAPHQL_ENDPOINT =
